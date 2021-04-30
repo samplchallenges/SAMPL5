@@ -1,65 +1,54 @@
 Molecule ID, 	 SMILES, 	 eMolecules ID (if available) 
-SAMPL5_060, 	 c1ccc2c(c1)c3cc(ncc3[nH]2)C(=O)O, 	 42618372
-SAMPL5_037, 	 CN(C)S(=O)(=O)N1CCNCC1, 	 833953
-SAMPL5_039, 	 CN(C)CCN1C[C@H](CC1=O)C(=O)O, 	 1427836
-SAMPL5_009, 	 Cc1cc(nc2n1cnn2)O, 	 692707
-SAMPL5_020, 	 CCCC(=O)Nc1nc2ccc(cc2s1)C(C)C, 	 5522978
-SAMPL5_038, 	 c1c(cncc1Cl)C(=O)O, 	 830488
-SAMPL5_036, 	 COc1c2ccc(cc2ncc1C(=O)O)Cl, 	 1339179
-SAMPL5_008, 	 CC(C)Nc1c(nc2n1cc(cc2)Cl)c3ccc(cc3)Cl, 	 6590051
-SAMPL5_054, 	 CC(=O)NCC[C@@H]1CCCCN1, 	 2721885
-SAMPL5_012, 	 c1ccc2c(c1)c(=O)[nH]c(n2)/C=C/c3ccc(cc3)Br, 	 20333668
-SAMPL5_002, 	 CCOC(=O)c1c(c2c(c(c(nc2s1)C)C)C)N, 	 1254130
-SAMPL5_041, 	 Cc1c([nH]c2nc(nn2c1=O)CNc3ccccc3OC)C, 	 17444522
-SAMPL5_030, 	 c1ccc2c(c1)c(c[nH]2)CCC(=O)O, 	 489345
-SAMPL5_015, 	 Cc1ccc2c(c1)c(ncn2)NCC(=O)O, 	 1355949
-SAMPL5_007, 	 c1ccc(cc1)CCNc2c3cc(ccc3ncn2)Br, 	 1373587
 SAMPL5_049, 	 c1cc(c(c(c1)Cl)Cl)NC(=O)c2ccno2, 	 5627856
 SAMPL5_058, 	 c1ccc(cc1)n2c(=O)c3ccccc3cn2, 	 3730323
-SAMPL5_062, 	 c1c([nH]nc1[C@@H]2CCCN2)CO, 	 43241782
-SAMPL5_024, 	 Cc1ccc2c(c1)cc3cc(sc3n2)C(=O)Nc4ccc(c(c4)C)C, 	 16329490
-SAMPL5_026, 	 Cc1cc(c2c(c1)c(c([nH]2)C)CC(=O)O)C, 	 703690
-SAMPL5_016, 	 Cc1cc(n(n1)c2nnc3n2N=C(CS3)c4c[nH]c5c4cccc5)C, 	 2268889
-SAMPL5_010, 	 c1cc(cc(c1)NCc2ccncc2)C(=O)O, 	 1491855
-SAMPL5_059, 	 c1ccc(cc1)c2nc(sn2)N, 	 711981
-SAMPL5_022, 	 c1ccc(cc1)Cc2cn3cc(nc3s2)c4ccc(cc4)Cl, 	 9399377
-SAMPL5_044, 	 c1ccc2c(c1)cc(c(=O)o2)C(=O)Nc3ccc4c(c3)scn4, 	 4987019
-SAMPL5_045, 	 CCC(=O)Nc1ccc2c(c1)ncs2, 	 12474692
-SAMPL5_050, 	 Cc1ccc2c(n1)nn3c2nc(cc3O)C, 	 5663556
-SAMPL5_055, 	 c1ccc2c(c1)ncc(n2)C(=O)N, 	 3800934
-SAMPL5_028, 	 c1cc(cnc1)C(=O)C2CCNCC2, 	 17090691
-SAMPL5_051, 	 c1cncnc1C(=O)O, 	 1010917
-SAMPL5_040, 	 CCc1ccc(cc1)NCc2nc3[nH]c(c(c(=O)n3n2)C)C, 	 17444518
-SAMPL5_014, 	 C1[C@@H](CC[C@H](C1)C(=O)O)CN, 	 206844590
-SAMPL5_056, 	 CC(C)[C@@H]1Cc2c(cc(c(n2)O)C#N)CO1, 	 
-SAMPL5_035, 	 c1cc(ccc1F)SCC(=O)O, 	 721549
-SAMPL5_023, 	 c1cc(ccc1C(=O)O)NC(=O)Nc2ccc(cc2)F, 	 2242357
-SAMPL5_019, 	 Cc1ccc(cc1)Nc2ccnc(n2)Nc3ccc(cc3)C, 	 43423819
-SAMPL5_006, 	 C=C(Cn1c2ccccc2nc1CO)Br, 	 2118862
-SAMPL5_048, 	 c1ccc2c(c1)nc(s2)c3cccc(c3)NC(=O)c4ccno4, 	 5627798
-SAMPL5_031, 	 c1cc(c2c(c1)nccn2)C(=O)O, 	 832954
-SAMPL5_057, 	 c1ccc2c(c1)cccc2CSc3nnc(o3)C4CCNCC4, 	 11477110
+SAMPL5_074, 	 c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N, 	 
 SAMPL5_042, 	 c1ccc(cc1)c2ccccc2NC(=O)c3ccc(=O)[nH]n3, 	 1552842
-SAMPL5_001, 	 c1ccc(cc1)c2ccc(cc2)CC(=O)O, 	 487487
-SAMPL5_011, 	 Cc1cc(nc(n1)Nc2ccccc2C(=O)O)C, 	 542592
+SAMPL5_059, 	 c1ccc(cc1)c2nc(sn2)N, 	 711981
+SAMPL5_050, 	 Cc1ccc2c(n1)nn3c2nc(cc3O)C, 	 5663556
+SAMPL5_020, 	 CCCC(=O)Nc1nc2ccc(cc2s1)C(C)C, 	 5522978
+SAMPL5_048, 	 c1ccc2c(c1)nc(s2)c3cccc(c3)NC(=O)c4ccno4, 	 5627798
 SAMPL5_013, 	 Cc1ccc(cc1)c2nc(c3c(n2)n(c(=O)[nH]3)c4ccccc4)C(=O)N, 	 16095985
-SAMPL5_034, 	 CS(=O)(=O)N1CCNCC1, 	 
+SAMPL5_080, 	 Cn1cnc2c1c(=O)n(c(=O)n2C)C, 	 
 SAMPL5_047, 	 c1cnoc1C(=O)Nc2c(c3c(s2)CCCC3)C#N, 	 5627778
-SAMPL5_029, 	 c1cc(ccc1c2ccc(cc2)O)C(=O)O, 	 502148
 SAMPL5_021, 	 Cc1nn2cc(nc2s1)c3cccc(c3)OC, 	 31467689
-SAMPL5_053, 	 c1cnn(c1)c2ccc(cc2)C(=O)O, 	 439969
-SAMPL5_032, 	 c1ccn(c1)Cc2ccc(cc2)C(=O)O, 	 1501658
-SAMPL5_052, 	 COc1cc(cc(c1)OC)C(=O)O, 	 503533
-SAMPL5_027, 	 c1ccc(cc1)CNc2ncnc(n2)N, 	 2483781
 SAMPL5_017, 	 c1ccc2c(c1)c(nc(n2)c3ccccc3O)NC4CCCC4, 	 2425478
-SAMPL5_064, 	 CC(=O)N1CCC[C@@H]1c2nnc3n2CCNCC3, 	 43240959
+SAMPL5_084, 	 c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F, 	 
+SAMPL5_065, 	 COc1ccc2c(c1)[nH]c3c2CC[N@]4[C@@H]3C[C@H]5[C@@H](C4)C[C@H]([C@@H]([C@H]5C(=O)OC)OC)OC(=O)c6cc(c(c(c6)OC)OC)OC, 	 
+SAMPL5_007, 	 c1ccc(cc1)CCNc2c3cc(ccc3ncn2)Br, 	 1373587
+SAMPL5_024, 	 Cc1ccc2c(c1)cc3cc(sc3n2)C(=O)Nc4ccc(c(c4)C)C, 	 16329490
+SAMPL5_045, 	 CCC(=O)Nc1ccc2c(c1)ncs2, 	 12474692
+SAMPL5_092, 	 CC(=O)N1CCN(CC1)c2ccc(cc2)OC[C@H]3CO[C@](O3)(Cn4ccnc4)c5ccc(cc5Cl)Cl, 	 
+SAMPL5_088, 	 CCN(Cc1ccncc1)C(=O)[C@H](CO)c2ccccc2, 	 
+SAMPL5_004, 	 CCOc1ccc(cc1)Nc2cc(c3ccccc3n2)C, 	 1221528
+SAMPL5_082, 	 CC/C(=C(\c1ccccc1)/c2ccc(cc2)OCCN(C)C)/c3ccccc3, 	 
+SAMPL5_071, 	 CCOc1cc(c(cc1N2CCOCC2)OCC)N, 	 
+SAMPL5_063, 	 C1C[C@H](CNC1)N2CCC(CC2)C(=O)N, 	 38498425
+SAMPL5_011, 	 Cc1cc(nc(n1)Nc2ccccc2C(=O)O)C, 	 542592
+SAMPL5_081, 	 CC(C)NC[C@H](COc1ccc(cc1)CC(=O)N)O, 	 
+SAMPL5_085, 	 c1ccc(cc1)C2(C(=O)NC(=O)N2)c3ccccc3, 	 
 SAMPL5_005, 	 Cn1ccnc1SCC(=O)Nc2ccc3c(c2)OCO3, 	 1363085
 SAMPL5_046, 	 CSc1ccc(cc1)CC(=O)Nc2c3ccsc3ncn2, 	 12046880
-SAMPL5_063, 	 C1C[C@H](CNC1)N2CCC(CC2)C(=O)N, 	 38498425
-SAMPL5_004, 	 CCOc1ccc(cc1)Nc2cc(c3ccccc3n2)C, 	 1221528
-SAMPL5_025, 	 c1cc2cc(sc2nc1)C(=O)O, 	 726739
 SAMPL5_033, 	 Cc1ccc(cc1NC(=O)N2CCCCC[C@@H]2c3cccs3)Cl, 	 16363773
-SAMPL5_061, 	 Cc1nccc(n1)[C@@]2(CNCCO2)C, 	 43241882
 SAMPL5_003, 	 c1ccc2c(c1)c(=O)oc(n2)c3ccccc3F, 	 1231787
-SAMPL5_018, 	 Cc1ccc2c(c1)NC(=NS2(=O)=O)SCC(=O)N3CCCC3, 	 16371537
-SAMPL5_043, 	 Cc1c([nH]c2nc(nn2c1=O)CNc3ccccc3Cl)C, 	 27071512
+SAMPL5_060, 	 c1ccc2c(c1)c3cc(ncc3[nH]2)C(=O)O, 	 42618372
+SAMPL5_037, 	 CN(C)S(=O)(=O)N1CCNCC1, 	 833953
+SAMPL5_072, 	 CN(C)CCOC(c1ccccc1)c2ccccc2, 	 
+SAMPL5_083, 	 C[C@H]1/C=C/C=C(\C(=O)NC\2=C(C3=C(C(=C4C(=C3C(=O)/C2=C/NN5CCN(CC5)C)C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C, 	 
+SAMPL5_090, 	 Cc1cc2c(cc1C)nc(c(n2)c3ccccn3)c4ccccn4, 	 
+SAMPL5_015, 	 Cc1ccc2c(c1)c(ncn2)NCC(=O)O, 	 1355949
+SAMPL5_026, 	 Cc1cc(c2c(c1)c(c([nH]2)C)CC(=O)O)C, 	 703690
+SAMPL5_010, 	 c1cc(cc(c1)NCc2ccncc2)C(=O)O, 	 1491855
+SAMPL5_069, 	 C[N@]1CCc2cc(c(c-3c2[C@@H]1Cc4c3cc(c(c4)O)OC)OC)O, 	 
+SAMPL5_067, 	 CC(C)NC[C@@H](COc1cccc2c1cccc2)O, 	 
+SAMPL5_019, 	 Cc1ccc(cc1)Nc2ccnc(n2)Nc3ccc(cc3)C, 	 43423819
+SAMPL5_068, 	 c1ccc(cc1)c2c(nnc(n2)c3ccccn3)c4ccccc4, 	 
+SAMPL5_056, 	 CC(C)[C@@H]1Cc2c(cc(c(n2)O)C#N)CO1, 	 
+SAMPL5_027, 	 c1ccc(cc1)CNc2ncnc(n2)N, 	 2483781
+SAMPL5_061, 	 Cc1nccc(n1)[C@@]2(CNCCO2)C, 	 43241882
+SAMPL5_086, 	 CCCCOc1cc(c2ccccc2n1)C(=O)NCCN(CC)CC, 	 
+SAMPL5_044, 	 c1ccc2c(c1)cc(c(=O)o2)C(=O)Nc3ccc4c(c3)scn4, 	 4987019
+SAMPL5_075, 	 CC(C)NC[C@@H](COc1ccc(cc1)CCOC)O, 	 
+SAMPL5_055, 	 c1ccc2c(c1)ncc(n2)C(=O)N, 	 3800934
+SAMPL5_070, 	 CN(C)CCC=C1c2ccccc2CCc3c1cccc3, 	 
+SAMPL5_006, 	 C=C(Cn1c2ccccc2nc1CO)Br, 	 2118862
+SAMPL5_002, 	 CCOC(=O)c1c(c2c(c(c(nc2s1)C)C)C)N, 	 1254130

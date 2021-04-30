@@ -1,13 +1,13 @@
 ;
-;   File ./water/SAMPL5_090/gromacs/SAMPL5_090_water_1_400.top was generated
+;   File ./water/SAMPL5_090/gromacs/SAMPL5_090_water_1_1000.top was generated
 ;   By user: burleyk (1294311)
 ;   On host: gplogin3.local
-;   At date: Wed. October  3 13:47:44 2015
+;   At date: Mon. October  1 10:39:56 2015
 ;
 ;   This is a standalone topology file
 ;
 ;   Created by:
-;   ParmEd:       SAMPL_setup.py, VERSION 2.0.1
+;   ParmEd:       SAMPL_setup.py, VERSION 2.0.4
 ;   Executable:   SAMPL_setup.py
 ;   Library dir:  /export/modfac/apps/gromacs-5.0.4_gcc-generic/share/gromacs/top
 ;   Command line:
@@ -20,16 +20,16 @@
 
 [ atomtypes ]
 ; name    at.num    mass    charge ptype  sigma      epsilon
-c3             6    0.00000   12.010000  A      0.339967       0.45773
-ca             6    0.00000   12.010000  A      0.339967      0.359824
-nb             7    0.00000   14.010000  A         0.325       0.71128
-cp             6    0.00000   12.010000  A      0.339967      0.359824
-cq             6    0.00000   12.010000  A      0.339967      0.359824
-hc             1    0.00000    1.008000  A      0.264953     0.0656888
-ha             1    0.00000    1.008000  A      0.259964       0.06276
-h4             1    0.00000    1.008000  A      0.251055       0.06276
-OW             8    0.00000   16.000000  A      0.315075      0.635968
-HW             1    0.00000    1.008000  A             0             0
+c3             6   12.01000    0.000000  A      0.339967       0.45773
+ca             6   12.01000    0.000000  A      0.339967      0.359824
+nb             7   14.01000    0.000000  A         0.325       0.71128
+cp             6   12.01000    0.000000  A      0.339967      0.359824
+cq             6   12.01000    0.000000  A      0.339967      0.359824
+hc             1    1.00800    0.000000  A      0.264953     0.0656888
+ha             1    1.00800    0.000000  A      0.259964       0.06276
+h4             1    1.00800    0.000000  A      0.251055       0.06276
+OW             8   16.00000    0.000000  A      0.315075      0.635968
+HW             1    1.00800    0.000000  A             0             0
 
 
 [ moleculetype ]
@@ -444,4 +444,4 @@ Generic title
 [ molecules ]
 ; Compound       #mols
 solute               1
-water              400
+water             1000
