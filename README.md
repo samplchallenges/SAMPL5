@@ -1,5 +1,6 @@
 # SAMPL5
 Archived input files from the SAMPL5 challenge
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5508286.svg)](https://doi.org/10.5281/zenodo.5508286)
 
 ## Challenge overview
 SAMPL5 was organized by David L. Mobley and collaborators.
